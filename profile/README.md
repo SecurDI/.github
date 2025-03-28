@@ -1,1 +1,1 @@
-![](./logo-white-bg.png)
+<img src="./logo-white-bg.png" alt="logo" width="240"/>
