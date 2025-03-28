@@ -1,1 +1,1 @@
-# SecurDI Github
+![](./logo-white-bg.png)
